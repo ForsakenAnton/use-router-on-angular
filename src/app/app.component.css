@@ -1,0 +1,17 @@
+.container {
+    text-align: center;
+} 
+
+a {
+    color: orange;
+    margin: 15px;
+    padding: 5px;
+
+    text-decoration: none;
+}
+
+.active {
+    color: orangered;
+    background-color: rgb(255, 209, 193);
+    border-radius: 3px;
+}
